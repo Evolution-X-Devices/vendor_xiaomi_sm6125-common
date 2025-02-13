@@ -198,9 +198,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
-    audio.primary.sm6125 \
     libFileMux_proprietary \
-    liba2dpoffload_sm6125 \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
@@ -208,10 +206,8 @@ PRODUCT_PACKAGES += \
     libadm \
     libadpcmdec \
     libaudcal \
-    libaudio_log_utils \
     libaudioalsa \
     libaudioconfigstore \
-    libaudioparsers \
     libcapiv2svacnn \
     libcapiv2vop \
     libdrc \
@@ -220,7 +216,6 @@ PRODUCT_PACKAGES += \
     libgcs-ipc \
     libgcs-osal \
     libgcs \
-    libhdmipassthru \
     liblistensoundmodel2 \
     libmmrtpdecoder_proprietary \
     libmmrtpencoder_proprietary \
